@@ -1,2 +1,2 @@
 testing purpose for merge conflict
-branch1
+branch2
